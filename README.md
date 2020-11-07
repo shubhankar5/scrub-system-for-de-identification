@@ -1,5 +1,5 @@
 # scrub-system-for-de-identification
-A scrub system for de-identification and cleaning of data
+A scrub system for de-identification and cleaning of data to maintain the privacy of data when sharing it with other organizations. Here, we are focusing on the medical dataset as it is quite vulnerable to data leakage. But this algorithm can be applied to any dataset to ensure its privacy.
 ## How to use? 
 python main.py -f Input_files/records.csv -o output_file_name
 <br><br>
